@@ -43,6 +43,7 @@ title: User Guide
     * [Storage](#storage)
     * [Help](#help)
     * [FAQ](#faq)
+    * [Troubleshooting](#troubleshooting)
     * [Summary of commands](#command-summary)
     * [Summary of prefixes in commands](#command-prefix-summary)
 
@@ -969,6 +970,16 @@ Format: `help`
 
 **Q**: Is there any limit to the number of fish I can store with *Fish Ahoy!*<br>
 **A**: No! You can store all of your fish on *Fish Ahoy!*
+
+--------------------------------------------------------------------------------------------------------------------
+
+## Troubleshooting
+| **Message**                                                           | **Possible reason**                                                          | **What to do now**                                                                                                              |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Invalid command format!                                               | You were missing some parameters when typing your command                    | Head to the [features](#features) section and find the command you are executing. Double check you have all required parameters |
+| Unknown command                                                       | You have misspelt the [command type](#glossary)                              | Ensure the command type is spelt correctly                                                                                      |
+| Last Fed Date Time is a date time in the format of "dd/MM/yyyy HH:mm" | You have given an invalid date or a date of the wrong format                 | Ensure your last fed date parameter is in the format of "dd/MM/yyyy HH:mm" and is a real date                                   |
+| The index provided is out-of-bounds.                                  | You have entered an index that does not correspond to an [object](#glossary) | Enter a valid [index parameter](#index-parameters)                                                                              |
 
 --------------------------------------------------------------------------------------------------------------------
 
