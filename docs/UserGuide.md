@@ -80,6 +80,8 @@ For **amateur users**, choose a feature from our [table of contents](#table-of-c
 
 For **experienced users**, refer to our [command summary](#command-summary) or [prefix summary](#command-prefix-summary) to obtain information you might need at a glance.
 
+At any point of time if you encounter any issues, head to our [FAQ](#faq) or [troubleshooting](#troubleshooting) sections.
+
 These are the symbols employed in this user guide:
 
 | Symbol               | Meaning                                                                                                      |
